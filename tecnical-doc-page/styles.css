@@ -34,7 +34,7 @@ body {
 
 #navbar li {
     position: relative;
-    height: 38px;
+    height: 48px;
     list-style: none;
 }
 
@@ -46,8 +46,9 @@ body {
     display: block;
     width: 100%;
     height: 100%;
-    margin: 0px;
+    margin-left: 0;
     padding-left: 15px;
+    padding-top: 15px;
     text-decoration: none;
     color: #FFFFFF;
     cursor: pointer;
