@@ -25,7 +25,7 @@ body {
 }
 
 #navbar ul {
-    height: 90%;
+    height: 88%;
     margin: 0;
     padding: 0;
     overflow-x: hidden;
@@ -94,10 +94,6 @@ code {
     font-family: Monospace;
 }
 
-.mobile-menu-toggle {
-    display: none;
-}
-
 @media screen and (max-width: 801px) {
     #navbar {
         background-color: #306998;
@@ -112,7 +108,7 @@ code {
     }
     
     #navbar ul {
-       height: 165px;
+       height: 167px;
     }
 
     #main-doc {
