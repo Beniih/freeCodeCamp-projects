@@ -40,7 +40,6 @@ body {
 
 #navbar li:hover {
     background-color: #FFFFFF;
-    color: #306998;
 }
 
 #navbar a {
@@ -51,6 +50,10 @@ body {
     text-decoration: none;
     color: #FFFFFF;
     cursor: pointer;
+}
+
+#navbar a:hover {
+    color: #306998;
 }
 
 #main-doc {
