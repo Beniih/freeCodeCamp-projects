@@ -86,15 +86,6 @@ code {
     border-radius: 10px;
   }
 
-PRE {
-    overflow-x: auto;
-    white-space: pre-wrap;
-    white-space: -moz-pre-wrap;
-    white-space: -pre-wrap;
-    white-space: -o-pre-wrap;
-    word-wrap: break-word;
-}
-
 .type-list {
     background-color: #FFFFFF;
     color: #333333;
@@ -128,5 +119,14 @@ PRE {
         position: relative;
         margin-left: 0;
         margin-top: 251px;
+    }
+
+    pre {
+        overflow-x: auto;
+        white-space: pre-wrap;
+        white-space: -moz-pre-wrap;
+        white-space: -pre-wrap;
+        white-space: -o-pre-wrap;
+        word-wrap: break-word;
     }
 }
